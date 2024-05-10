@@ -1,3 +1,5 @@
+#komentarz testowy do gita
+
 def neighbour_manual_generator():
     print("Podawaj:")
     initial = [int(x) for x in input().split()]
