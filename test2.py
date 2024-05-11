@@ -1,4 +1,4 @@
-#komentarz testowy do gita
+#jakis losowy tekst
 
 def neighbour_manual_generator():
     print("Podawaj:")
